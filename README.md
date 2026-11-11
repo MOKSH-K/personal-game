@@ -4,7 +4,7 @@
 
 ### 30 surprises. Endless laughter. One unforgettable night!
 
-🌐 [Deployed link](https://asnweb.vercel.app/) · 📖 [Github-Repo link](https://github.com/MOKSH-K/personal-game.git) 
+🌐 [Deployed link]() · 📖 [Github-Repo link](https://github.com/MOKSH-K/personal-game.git) 
 
 A simple, responsive family game-night page with 30 numbered game cards. Pick a game to open its page and see what’s in store.
 
