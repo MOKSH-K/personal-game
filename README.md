@@ -4,6 +4,8 @@
 
 ### 30 surprises. Endless laughter. One unforgettable night!
 
+🌐 [Deployed link](https://asnweb.vercel.app/) · 📖 [about ASE](about.html) 
+
 A simple, responsive family game-night page with 30 numbered game cards. Pick a game to open its page and see what’s in store.
 
 </div>
