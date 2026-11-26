@@ -2,7 +2,7 @@
 
 # 🎉 Family Game Night
 
-### 30 surprises. Endless laughter. One unforgettable night!
+### 20 surprises. Endless laughter. One unforgettable night!
 
 🌐 [Deployed link](https://50th-anniversary-game-1.vercel.app/) · 📖 [Github-Repo link](https://github.com/MOKSH-K/personal-game.git) 
 
