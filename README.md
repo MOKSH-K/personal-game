@@ -20,7 +20,7 @@ Game pages currently display a **“To Be Decided”** placeholder. Add your own
 
 ## ✨ Features
 
-- 30 numbered game cards
+- 20 numbered game cards
 - Open a selected game in a new browser tab
 - Distinct colors and simple card animations
 - Responsive layout for desktop and mobile screens
